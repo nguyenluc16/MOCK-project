@@ -50,7 +50,7 @@ This project is a Command Line Interface (CLI) application for Linux, written in
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/media-browser-player.git
+    git clone https://github.com/
     cd media-browser-player
     ```
 
